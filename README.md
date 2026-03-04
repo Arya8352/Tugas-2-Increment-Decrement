@@ -1,17 +1,14 @@
-# tugas_dua
+# Tugas 2 Flutter
 
-A new Flutter project.
+**Nama:** Arya Nugraha  
+**NRP:** 3124521043  
 
-## Getting Started
+## Screenshot
+<p align="center">
+  <img src="src/ss1.png" width="300" alt="Hasil Increment">
+  <img src="src/ss2.png" width="300" alt="Hasil Decrement">
+</p>
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deskripsi
+Aplikasi sederhana Increment dan Decrement menggunakan Flutter.
